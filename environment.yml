@@ -5,5 +5,7 @@ dependencies:
   - jupyter=1.0.0=py37_7
   - pip=10.0.1=py37_0
   - python=3.7.1=haf84260_3
-prefix: /Users/dmkonecki/anaconda3/envs/dsa-study-group
+  - numpy=1.15.3
+  - scipy=1.1.0
+prefix: dsa-study-group
 
